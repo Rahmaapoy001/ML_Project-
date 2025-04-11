@@ -1,7 +1,5 @@
 # Practical Machine Learning - Course Project
 
-This repository contains my submission for the Coursera [Practical Machine Learning](https://www.coursera.org/learn/practical-machine-learning) course project.
-
 ## 🔍 Project Objective
 
 Using accelerometer data from wearable devices, this project aims to predict the manner in which participants performed weight lifting exercises. The main target variable is `classe`, which categorizes different exercise techniques (both correct and incorrect).
